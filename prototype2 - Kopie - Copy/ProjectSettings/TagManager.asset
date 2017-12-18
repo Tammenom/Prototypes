@@ -56,6 +56,15 @@ TagManager:
   - name: 00
     uniqueID: 3919772255
     locked: 0
+  - name: Background0
+    uniqueID: 2271412551
+    locked: 0
+  - name: Background01
+    uniqueID: 2657237543
+    locked: 0
+  - name: Background03
+    uniqueID: 2504061385
+    locked: 0
   - name: 01
     uniqueID: 646515831
     locked: 0
@@ -91,4 +100,7 @@ TagManager:
     locked: 0
   - name: 08
     uniqueID: 106108621
+    locked: 0
+  - name: 09
+    uniqueID: 3187975389
     locked: 0
